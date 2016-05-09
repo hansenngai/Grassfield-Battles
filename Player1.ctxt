@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkSpeed()
+comment2.text=\r\n\ Checks\ if\ the\ boost\ powerup\ is\ on\r\n
+comment3.params=
+comment3.target=void\ boostedMove()
+comment3.text=\r\n\ If\ boost\ is\ on,\ movement\ follows\ this\ code\r\n
+comment4.params=
+comment4.target=void\ shoot()
+comment4.text=\r\n\ Spawns\ a\ bullet\ and\ checks\ delay\r\n
+comment5.params=
+comment5.target=void\ moveAndTurn()
+comment5.text=\r\n\ Regular\ movement\ code\r\n
+comment6.params=
+comment6.target=void\ checkTouching()
+comment6.text=\r\n\ Takes\ away\ health\ if\ hit\ by\ bullet;\ dies\ if\ health\ goes\ to\ 0\r\n
+comment7.params=
+comment7.target=void\ checkDeath()
+comment7.text=\r\n\ Loads\ ending\ screen\ if\ dead\r\n
+numComments=8
